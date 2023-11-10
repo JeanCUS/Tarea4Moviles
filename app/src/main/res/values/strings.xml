@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tarea4Moviles</string>
+    <string name="delete">DELETE</string>
+    <string name="edit">EDIT</string>
+    <string name="add">ADD</string>
+    <string name="nombre_del_producto">Nombre del producto</string>
+    <string name="descripci_n">Descripción</string>
+    <string name="agregar">Agregar</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="sqlitefarmacia">SQLiteFarmacia</string>
+    <string name="editar">Editar</string>
+</resources>
